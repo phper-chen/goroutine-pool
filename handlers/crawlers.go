@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	defs "curiosity-questions/question-1/defs"
+	defs "goroutine-pool/defs"
 	//	"fmt"
 	"io/ioutil"
 	"net/http"

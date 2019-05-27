@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	defs "curiosity-questions/question-1/defs"
 	"errors"
+	defs "goroutine-pool/defs"
 	"os"
 	"strconv"
 )

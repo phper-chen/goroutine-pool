@@ -1,9 +1,9 @@
 package main
 
 import (
-	handlers "curiosity-questions/question-1/handlers"
-	utils "curiosity-questions/question-1/utils"
 	"fmt"
+	handlers "goroutine-pool/handlers"
+	utils "goroutine-pool/utils"
 	"os"
 	"time"
 )
